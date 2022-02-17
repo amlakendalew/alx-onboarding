@@ -1,3 +1,5 @@
-Read num1, num2
-Set sum to num1*num1 + num2*num2
-Write Sum
+Read num
+Set sum to num*num
+Check if there is other number input
+If there is any
+Set sum to sum+num*num
